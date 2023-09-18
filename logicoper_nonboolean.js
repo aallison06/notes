@@ -38,3 +38,10 @@ console.log(y); // -> y == 0
 it will be returned, and no other check will be made. 
 This quickens code execution, but has one side effect 
 visible in this example. */
+
+// Continued pt. 2
+x = 0;
+y = 0;
+console.log(x++ && y++);
+console.log(x);
+console.log(y);
