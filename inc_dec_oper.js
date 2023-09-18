@@ -24,7 +24,6 @@ console.log(n4); // -> 19
 it is to use an example from the editor. */
 
 // This happens because the code line
-
 console.log(n1++);
 
 // is interpreted as
